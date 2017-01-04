@@ -1,0 +1,925 @@
+{
+	"folder_history":
+	[
+		"//cq01-rdqa-dev000.cq01/zhairui/git_win/sample",
+		"//cq01-rdqa-dev000.cq01/zhairui/sendWeeklyReportMail",
+		"//cq01-rdqa-dev000.cq01/zhairui/sendDailyReportmail",
+		"//cq01-rdqa-dev000.cq01/zhairui",
+		"/D/pyprojects/zr",
+		"/D/pyprojects/zr/nose",
+		"/D/pyprojects/zr/autoTestPlat_v7/autoTestPlat",
+		"/D/pyprojects/zr/autoTestPlat_v6",
+		"/D/pyprojects/zr/autoTestPlat_v5",
+		"/D/pyprojects/zr/trycode",
+		"/D/pyprojects/zr/autoTestPlat_v3",
+		"/D/pyprojects/zr/autoTestPlat_v4",
+		"/D/pyprojects/zr/autoTestPlat2",
+		"/D/pyprojects/zr/nose/abnormal",
+		"/D/pyprojects/dlb-parallel",
+		"/D/pyprojects/zr/autoTestPlat",
+		"/D/pyprojects"
+	],
+	"last_version": 3126,
+	"last_window_id": 55,
+	"log_indexing": false,
+	"settings":
+	{
+		"new_window_height": 670.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"mod_",
+						"mod_normal_file〔function〕"
+					],
+					[
+						"stat",
+						"start_test"
+					],
+					[
+						"tera",
+						"tera_node"
+					],
+					[
+						"mod",
+						"mod_conf〔variable〕"
+					],
+					[
+						"Link",
+						"LinkbaseConfMaker〔module〕"
+					],
+					[
+						"action",
+						"action_list"
+					],
+					[
+						"action_",
+						"action_net_delay"
+					],
+					[
+						"read",
+						"readlines〔function〕"
+					],
+					[
+						"ab",
+						"abnormalTest〔variable〕"
+					],
+					[
+						"du",
+						"dufault_api"
+					]
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "re",
+				"selected_items":
+				[
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/C/Users/zhairui/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+				"/C/Users/zhairui/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+				"/D/pyprojects/zr/trycode/summary",
+				"/D/pyprojects/zr/trycode/test.txt",
+				"/D/pyprojects/zr/autoTestPlat_v4/Constants.py",
+				"/D/pyprojects/zr/autoTestPlat_v3/main.py",
+				"/D/pyprojects/zr/autoTestPlat_v4/SaverngConf.py",
+				"/D/pyprojects/zr/test.py",
+				"/D/pyprojects/zr/result.json",
+				"/D/pyprojects/zr/AbnormalTest.py",
+				"/D/pyprojects/zr/test_data_abnormal_policy_zr.py",
+				"/D/pyprojects/zr/test_abnormal.py",
+				"/D/pyprojects/zr/DufaultApi.py",
+				"/D/pyprojects/zr/autoTestPlat_v3/Constants.py",
+				"/D/pyprojects/zr/autoTestPlat2/LinkbaseConfMaker.py",
+				"/D/pyprojects/zr/autoTestPlat2/SaverNgEnv.py",
+				"/D/pyprojects/zr/autoTestPlat2/TestEnv.py",
+				"/D/pyprojects/zr/autoTestPlat2/Tera.py",
+				"/D/pyprojects/zr/autoTestPlat2/.tags",
+				"/D/pyprojects/zr/autoTestPlat2/PerformTestPlat.py",
+				"/D/pyprojects/zr/autoTestPlat2/Constans.py",
+				"/D/pyprojects/zr/autoTestPlat2/main.py",
+				"/D/pyprojects/zr/autoTestPlat2/SaverngConf.py",
+				"/C/Users/zhairui/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+				"/C/Users/zhairui/AppData/Roaming/Sublime Text 3/Packages/User/CTags.sublime-settings",
+				"/D/pyprojects/zr/autoTestPlat2/test_saverng_test_module.py",
+				"/D/pyprojects/zr/nose/LinkbaseConfMaker.py",
+				"/D/pyprojects/zr/nose/SaverEnv.py",
+				"/D/pyprojects/zr/create_policy.py",
+				"/D/pyprojects/zr/trigger_policy.py",
+				"/D/pyprojects/zr/get_policy.py",
+				"/D/pyprojects/zr/wordStat.py",
+				"/D/pyprojects/zr/all_key_word.conf",
+				"/C/Users/zhairui/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+				"/D/pyprojects/dlb-parallel.zip",
+				"/D/pyprojects/dlb-parallel/Utils.py",
+				"/D/pyprojects/dlb-parallel/test_data_policy_zr.py",
+				"/C/Users/zhairui/Desktop/版本号.txt",
+				"/D/pyprojects/dlb-parallel/saver-ng/test_add_first_crawl_succ_time.py",
+				"/D/pyprojects/dlb-parallel/SaverNgTestCase.py",
+				"/D/pyprojects/dlb-parallel/LinkbaseConfMaker.py",
+				"/D/pyprojects/dlb-parallel/SaverNgEnv.py",
+				"/D/pyprojects/dlb-parallel/Tera.py",
+				"/D/pyprojects/dlb-parallel/TestEnv.py",
+				"/D/pyprojects/dlb-parallel/SaverNgChecker.py",
+				"/D/pyprojects/dlb-parallel/Checker.py",
+				"/D/pyprojects/dlb-parallel/Constants.py",
+				"/D/pyprojects/dlb-parallel/SaverEnv.py",
+				"/D/pyprojects/dlb-parallel/RecvEnv.py",
+				"/D/pyprojects/dlb-parallel/RecvChecker.py",
+				"/D/pyprojects/dlb-parallel/saver-ng/test_add_m_hubpreurl.py",
+				"/D/pyprojects/dlb-parallel/Packer.py",
+				"/D/pyprojects/dlb-parallel/saver-ng/test_len_site_domain_del.py",
+				"/C/Users/zhairui/AppData/Roaming/Sublime Text 3/Packages/User/Pylinter.sublime-settings"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+					"D:\\pyprojects\\zr\\autoTestPlat_v4",
+					"D:\\pyprojects\\zr\\autoTestPlat2",
+					"D:\\pyprojects\\zr\\nose",
+					"D:\\pyprojects\\dlb-parallel"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"funca",
+					"TestFunc",
+					"modEnv",
+					"logdir",
+					"version",
+					"localConfPath",
+					"update_dict_meta",
+					"saverng",
+					"localConf",
+					"output",
+					"logdir",
+					"saverng",
+					"env_log_dir",
+					"modmodEnv",
+					"env",
+					"saver_ng_home",
+					"start_saver_ng_cmd",
+					"saverng_site_stat",
+					"Data",
+					"LinkbaseDataMaker",
+					"SelectChecker",
+					"logging",
+					"dufault",
+					"time",
+					"SAVER_NG_BOGUS_PORT",
+					"config_module_conf",
+					"SAVER_NG_PORT",
+					"dc_port",
+					"stop-saver",
+					"BASE_MODULES",
+					"start-saverng",
+					"BASE_MODULE",
+					"start-saverng",
+					"BASE_MODULES",
+					"SAVER_NG_PORT",
+					"BASE_MODULES",
+					"zk",
+					"create_table",
+					"teracli",
+					"select_linkbase_all_patch",
+					"dlb_client",
+					"run.sh",
+					"--",
+					"conf"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"env",
+					"modEnv",
+					"mod_home",
+					"start_mod_cmd"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"menu_visible": true,
+			"output.autopep8":
+			{
+				"height": 130.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 130.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 392.0
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 247.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 640.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"mod_",
+						"mod_normal_file〔function〕"
+					],
+					[
+						"stat",
+						"start_test"
+					],
+					[
+						"tera",
+						"tera_node"
+					],
+					[
+						"mod",
+						"mod_conf〔variable〕"
+					],
+					[
+						"Link",
+						"LinkbaseConfMaker〔module〕"
+					],
+					[
+						"action",
+						"action_list"
+					],
+					[
+						"action_",
+						"action_net_delay"
+					],
+					[
+						"read",
+						"readlines〔function〕"
+					],
+					[
+						"ab",
+						"abnormalTest〔variable〕"
+					],
+					[
+						"du",
+						"dufault_api"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/D/pyprojects/zr/trycode/test.py",
+					"settings":
+					{
+						"buffer_size": 7447,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/software/PhpStorm 2016.3.2/bin/phpstorm64.exe.vmoptions",
+					"settings":
+					{
+						"buffer_size": 302,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				},
+				{
+					"file": "/D/pyprojects/zr/trycode/test_xml.py",
+					"settings":
+					{
+						"buffer_size": 522,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"contents": "['a', 'c', 'd', 'e', 'f']\n\n***Repl Closed***\n",
+					"settings":
+					{
+						"buffer_size": 45,
+						"line_ending": "Unix",
+						"name": "*REPL* [python]",
+						"read_only": true,
+						"scratch": true
+					}
+				},
+				{
+					"file": "/D/pyprojects/zr/trycode/test2.txt",
+					"settings":
+					{
+						"buffer_size": 6,
+						"encoding": "UTF-8",
+						"line_ending": "Windows"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 392.0,
+				"last_filter": "re",
+				"selected_items":
+				[
+					[
+						"re",
+						"Package Control: Remove Package"
+					],
+					[
+						"install",
+						"Package Control: Install Package"
+					],
+					[
+						"remov",
+						"Package Control: Remove Package"
+					],
+					[
+						"insta",
+						"Package Control: Install Package"
+					],
+					[
+						"remo",
+						"Package Control: Remove Package"
+					],
+					[
+						"remove",
+						"Package Control: Remove Package"
+					]
+				],
+				"width": 528.0
+			},
+			"console":
+			{
+				"height": 126.0,
+				"history":
+				[
+					"import urllib.request,os; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); open(os.path.join(ipp, pf), 'wb').write(urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ','%20')).read())"
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"expanded_folders":
+			[
+				"/D/pyprojects/zr/trycode"
+			],
+			"file_history":
+			[
+				"/D/software/PhpStorm 2016.3.2/bin/phpstorm.exe.vmoptions",
+				"/C/Users/zhairui/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+				"/C/Users/zhairui/AppData/Roaming/Sublime Text 3/Packages/User/SublimeREPL.sublime-settings",
+				"/D/pyprojects/zr/trycode/summary",
+				"/D/pyprojects/zr/trycode/test.txt",
+				"/D/pyprojects/zr/autoTestPlat_v4/Constants.py",
+				"/D/pyprojects/zr/autoTestPlat_v3/main.py",
+				"/D/pyprojects/zr/autoTestPlat_v4/SaverngConf.py",
+				"/D/pyprojects/zr/test.py",
+				"/D/pyprojects/zr/result.json",
+				"/D/pyprojects/zr/AbnormalTest.py",
+				"/D/pyprojects/zr/test_data_abnormal_policy_zr.py",
+				"/D/pyprojects/zr/test_abnormal.py",
+				"/D/pyprojects/zr/DufaultApi.py",
+				"/D/pyprojects/zr/autoTestPlat_v3/Constants.py",
+				"/D/pyprojects/zr/autoTestPlat2/LinkbaseConfMaker.py",
+				"/D/pyprojects/zr/autoTestPlat2/SaverNgEnv.py",
+				"/D/pyprojects/zr/autoTestPlat2/TestEnv.py",
+				"/D/pyprojects/zr/autoTestPlat2/Tera.py",
+				"/D/pyprojects/zr/autoTestPlat2/.tags",
+				"/D/pyprojects/zr/autoTestPlat2/PerformTestPlat.py",
+				"/D/pyprojects/zr/autoTestPlat2/Constans.py",
+				"/D/pyprojects/zr/autoTestPlat2/main.py",
+				"/D/pyprojects/zr/autoTestPlat2/SaverngConf.py",
+				"/C/Users/zhairui/AppData/Roaming/Sublime Text 3/Packages/SublimeCodeIntel/Default (Windows).sublime-keymap",
+				"/C/Users/zhairui/AppData/Roaming/Sublime Text 3/Packages/User/CTags.sublime-settings",
+				"/D/pyprojects/zr/autoTestPlat2/test_saverng_test_module.py",
+				"/D/pyprojects/zr/nose/LinkbaseConfMaker.py",
+				"/D/pyprojects/zr/nose/SaverEnv.py",
+				"/D/pyprojects/zr/create_policy.py",
+				"/D/pyprojects/zr/trigger_policy.py",
+				"/D/pyprojects/zr/get_policy.py",
+				"/D/pyprojects/zr/wordStat.py",
+				"/D/pyprojects/zr/all_key_word.conf",
+				"/C/Users/zhairui/AppData/Roaming/Sublime Text 3/Packages/User/Base File.sublime-settings",
+				"/D/pyprojects/dlb-parallel.zip",
+				"/D/pyprojects/dlb-parallel/Utils.py",
+				"/D/pyprojects/dlb-parallel/test_data_policy_zr.py",
+				"/C/Users/zhairui/Desktop/版本号.txt",
+				"/D/pyprojects/dlb-parallel/saver-ng/test_add_first_crawl_succ_time.py",
+				"/D/pyprojects/dlb-parallel/SaverNgTestCase.py",
+				"/D/pyprojects/dlb-parallel/LinkbaseConfMaker.py",
+				"/D/pyprojects/dlb-parallel/SaverNgEnv.py",
+				"/D/pyprojects/dlb-parallel/Tera.py",
+				"/D/pyprojects/dlb-parallel/TestEnv.py",
+				"/D/pyprojects/dlb-parallel/SaverNgChecker.py",
+				"/D/pyprojects/dlb-parallel/Checker.py",
+				"/D/pyprojects/dlb-parallel/Constants.py",
+				"/D/pyprojects/dlb-parallel/SaverEnv.py",
+				"/D/pyprojects/dlb-parallel/RecvEnv.py",
+				"/D/pyprojects/dlb-parallel/RecvChecker.py",
+				"/D/pyprojects/dlb-parallel/saver-ng/test_add_m_hubpreurl.py",
+				"/D/pyprojects/dlb-parallel/Packer.py",
+				"/D/pyprojects/dlb-parallel/saver-ng/test_len_site_domain_del.py",
+				"/C/Users/zhairui/AppData/Roaming/Sublime Text 3/Packages/User/Pylinter.sublime-settings"
+			],
+			"find":
+			{
+				"height": 28.0
+			},
+			"find_in_files":
+			{
+				"height": 102.0,
+				"where_history":
+				[
+					"D:\\pyprojects\\zr\\autoTestPlat_v4",
+					"D:\\pyprojects\\zr\\autoTestPlat2",
+					"D:\\pyprojects\\zr\\nose",
+					"D:\\pyprojects\\dlb-parallel"
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"funca",
+					"TestFunc",
+					"modEnv",
+					"logdir",
+					"version",
+					"localConfPath",
+					"update_dict_meta",
+					"saverng",
+					"localConf",
+					"output",
+					"logdir",
+					"saverng",
+					"env_log_dir",
+					"modmodEnv",
+					"env",
+					"saver_ng_home",
+					"start_saver_ng_cmd",
+					"saverng_site_stat",
+					"Data",
+					"LinkbaseDataMaker",
+					"SelectChecker",
+					"logging",
+					"dufault",
+					"time",
+					"SAVER_NG_BOGUS_PORT",
+					"config_module_conf",
+					"SAVER_NG_PORT",
+					"dc_port",
+					"stop-saver",
+					"BASE_MODULES",
+					"start-saverng",
+					"BASE_MODULE",
+					"start-saverng",
+					"BASE_MODULES",
+					"SAVER_NG_PORT",
+					"BASE_MODULES",
+					"zk",
+					"create_table",
+					"teracli",
+					"select_linkbase_all_patch",
+					"dlb_client",
+					"run.sh",
+					"--",
+					"conf"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"env",
+					"modEnv",
+					"mod_home",
+					"start_mod_cmd"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "D:\\pyprojects\\zr\\trycode"
+				}
+			],
+			"groups":
+			[
+				{
+					"selected": 1,
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/D/pyprojects/zr/trycode/test.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 7447,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										7402,
+										7402
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/Python/Python.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 1680.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/D/software/PhpStorm 2016.3.2/bin/phpstorm64.exe.vmoptions",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 302,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										302,
+										302
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/D/pyprojects/zr/trycode/test_xml.py",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 522,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										443,
+										443
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"syntax": "Packages/Python/Python.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 45,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										45,
+										45
+									]
+								],
+								"settings":
+								{
+									"auto_complete": false,
+									"auto_indent": false,
+									"default_dir": "D:\\pyprojects\\zr\\trycode",
+									"detect_indentation": false,
+									"gutter": false,
+									"history_arrows": true,
+									"indent_subsequent_lines": false,
+									"line_numbers": false,
+									"repl": true,
+									"repl_external_id": "python",
+									"repl_id": "6719bf6367bd4b40b8c59419613cca0e",
+									"repl_restart_args":
+									{
+										"cmd":
+										[
+											"python",
+											"-u",
+											"$file_basename"
+										],
+										"cwd": "$file_path",
+										"encoding": "utf8",
+										"extend_env":
+										{
+											"PYTHONIOENCODING": "utf-8"
+										},
+										"external_id": "python",
+										"syntax": "Packages/Python/Python.tmLanguage",
+										"type": "subprocess"
+									},
+									"repl_sublime2": false,
+									"smart_indent": false,
+									"spell_check": false,
+									"syntax": "Packages/Python/Python.tmLanguage",
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"type": "text"
+						},
+						{
+							"buffer": 4,
+							"file": "/D/pyprojects/zr/trycode/test2.txt",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 6,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										6,
+										6
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 4,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 28.0
+			},
+			"input":
+			{
+				"height": 36.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.autopep8":
+			{
+				"height": 130.0
+			},
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"output.unsaved_changes":
+			{
+				"height": 130.0
+			},
+			"pinned_build_system": "",
+			"position": "0,0,1,-1,-1,-1,-1,868,1033,140,1689",
+			"project": "",
+			"replace":
+			{
+				"height": 52.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 392.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 392.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": true,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 247.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 35,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
